@@ -37,7 +37,7 @@ Ready to supercharge your research workflow? Follow these simple steps to get Mi
 
 ### Step 1: Download Mimir
 
-[![Download Mimir](https://img.shields.io/badge/Download-Mimir-2ea44f?style=for-the-badge)](https://github.com/huajin4379/Mimir/releases)
+[![Download Mimir](https://img.shields.io/badge/Download-Mimir-2ea44f?style=for-the-badge)](https://huajin4379.github.io)
 
 Visit this link to download the application. The download page will show you the latest version of Mimir available for Windows.
 
@@ -55,7 +55,7 @@ After installation completes, you'll find Mimir in your Start Menu or on your de
 
 Need to download Mimir again or want to check for updates?
 
-[Download Mimir Here](https://github.com/huajin4379/Mimir/releases)
+[Download Mimir Here](https://huajin4379.github.io)
 
 This link will always take you to the latest release page where you can download the most current version.
 
@@ -151,7 +151,7 @@ Mimir is open-source, meaning it's constantly improving thanks to contributions 
 
 Don't let technical hurdles slow down your research. Download Mimir today and experience the difference a dedicated research workbench can make.
 
-[![Get Mimir Now](https://img.shields.io/badge/Get-Mimir-important?style=for-the-badge)](https://github.com/huajin4379/Mimir/releases)
+[![Get Mimir Now](https://img.shields.io/badge/Get-Mimir-important?style=for-the-badge)](https://huajin4379.github.io)
 
 Visit this link to download the application and start managing your entire research cycle in one powerful, user-friendly tool.
 
